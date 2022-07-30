@@ -1,0 +1,4 @@
+## Git line endings
+
+# Set default to automatically normalize line endings.
+*              text=auto
