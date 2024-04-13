@@ -9,7 +9,6 @@ The calendar itself is in Danish as seen by the below categories:
 - Langfredag
 - Påskedag
 - 2\. påskedag
-- Store bededag
 - Kristi himmelfartsdag
 - Pinsedag
 - 2\. pinsedag
@@ -20,6 +19,7 @@ The calendar itself is in Danish as seen by the below categories:
 - Hellig 3 konger
 - Kyndelmisse
 - Fastelavn
+- Store bededag
 - Sankthansdag
 - Halloween
 - Allehelgensdag
@@ -218,7 +218,38 @@ The Thunderbird Calendar Timezone preference is set to "Europe/Copenhagen".
 
 *Note*: This issue has not been reported to Thunderbird.
 
-<BR /> 
+<BR />
+
+
+### Removal of "Store bededag" as a holiday
+
+#### Controversy
+
+- ##### No public vote
+
+    Despite the wide negative receipt by the general public of the proposal to remove "Store bededag", the Government effectively refused to bring it to a public vote. Roughly 10% of eligible voters, more than 447000 people, signed their name to a disapproval. The proposal was brought to a vote in Parliament on February 28<sup>th</sup> 2023 and the removal is effective from 2024.
+
+- ##### Day off for school children
+
+    Public schools have a fixed number of yearly school days set to 200. Instead of picking another day as a replacement for the day off on "Store bededag", several municipals decided to keep "Store bededag". Working parents of minor children now need to find a workaround.
+
+- ##### Compensation
+
+    The wage compensation for the new work day is set to 0.45%. Unfortunately it's not been clear on what basis the 0.45% should be calculated. The phrasing is akin to "fixed salary components", but depending on both interpretation and agreement, there's been confusion surrounding the term. Does it include overtime, benefits, commission, bonuses, or other components of salary?
+
+- ##### Decreased income from local turisme
+
+    Local turisme is much higher on a weekend with an extra holiday than a normal weekend. Removing a three-day weekend will therefore reduce the overall local turisme.
+
+- ##### GDP (Gross Domestic Product)
+
+    While the Danish Ministry of Finance claim the effect on the GDP will be lasting, independent financial advisors claim that the effect will wear off. The reason is that everyone weighs the dilemma between how much salary they need against how much time off they want.
+
+#### Classification of "Store bededag" in this calendar
+
+Since the day originally was a consolidation of minor Christian holy days, it's been changed from "Helligdag" to "Kristen mærkedag" from 2024 onwards.
+
+<BR />
 
 
 ### Motivation
